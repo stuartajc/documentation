@@ -40,4 +40,4 @@ Once you have finished imaging your USB mass storage device, remove it from your
 
 ## Boot your Raspberry Pi 3 from the USB mass storage device
 
-Attach the USB mass storage device to your Raspberry Pi 3 and power it up. After between five and ten seconds the Raspberry Pi 3 should begin booting, and display the rainbow splash screen on an attached screen.
+Remove the SD card. Attach the USB mass storage device to your Raspberry Pi 3 and power it up. After between five and ten seconds the Raspberry Pi 3 should begin booting, and display the rainbow splash screen on an attached screen.
